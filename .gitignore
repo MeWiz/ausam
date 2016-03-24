@@ -1,0 +1,4 @@
+_notes/
+vendor/
+composer.json
+composer.lock
