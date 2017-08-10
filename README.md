@@ -6,5 +6,5 @@ Issues:
 * Board cert checker misses a lot of lines due to unusual formatting
 
 Demo 
-http://www.henryfordem.com/ausam/
-http://www.henryfordem.com/ausam2/
+* http://www.henryfordem.com/ausam/
+* http://www.henryfordem.com/ausam2/
