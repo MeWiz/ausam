@@ -1,5 +1,7 @@
 # AUSAM
 
+### This is no longer being maintained. See AUSAM2: https://github.com/MeWiz/ausam2
+
 v2 - incorporates scholarly activity tracker + board cert checker + PD state licence checker
 
 Issues:
@@ -7,4 +9,3 @@ Issues:
 
 Demo 
 * http://www.henryfordem.com/ausam/
-* http://www.henryfordem.com/ausam2/
